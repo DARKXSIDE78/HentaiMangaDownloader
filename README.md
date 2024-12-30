@@ -45,7 +45,7 @@ Our bot supports both Linux and Windows systems.
    - [Heroku Deployment Button](https://heroku.com/deploy?template=https://github.com/DARKXSIDE78/HentaiMangaDownloader)
    
 2. **Railway**: The **Railway** deployment button links to the correct project template for Railway. 
-   - [Railway Deployment Button](https://railway.app/new/template/1z7pG9)
+   - Soon
 
 3. **Render**: The **Render** button is linked to the Render deployment template, which sets up the app automatically.
    - [Deploy to Render](https://render.com/deploy?repo=https://github.com/DARKXSIDE78/HentaiMangaDownloader)

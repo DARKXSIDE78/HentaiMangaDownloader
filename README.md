@@ -48,10 +48,10 @@ Our bot supports both Linux and Windows systems.
    - [Railway Deployment Button](https://railway.app/new/template/1z7pG9)
 
 3. **Render**: The **Render** button is linked to the Render deployment template, which sets up the app automatically.
-   - [Render Deployment Button](https://render.com/deploy?repo=https://github.com/DARKXSIDE78/HentaiMangaDownloader)
+   - [![Deploy to Render](https://render.com/deploy?repo=https://github.com/DARKXSIDE78/HentaiMangaDownloader)
 
 4. **Koyeb**: The **Koyeb** deployment button is linked to the correct GitHub template for Koyeb.
-   - .[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?DARKXSIDE78/HentaiMangaDownloader)
+   - [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?DARKXSIDE78/HentaiMangaDownloader)
 
 ### How to Use:
 - **Deploying on Heroku**: Click the **Heroku** button, which will create an app and deploy the bot on Heroku.

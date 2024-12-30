@@ -51,7 +51,7 @@ Our bot supports both Linux and Windows systems.
    - [Render Deployment Button](https://render.com/deploy?repo=https://github.com/DARKXSIDE78/HentaiMangaDownloader)
 
 4. **Koyeb**: The **Koyeb** deployment button is linked to the correct GitHub template for Koyeb.
-   - [Koyeb Deployment Button](https://www.koyeb.com/deploy/button.svg)
+   - .[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?DARKXSIDE78/HentaiMangaDownloader)
 
 ### How to Use:
 - **Deploying on Heroku**: Click the **Heroku** button, which will create an app and deploy the bot on Heroku.
